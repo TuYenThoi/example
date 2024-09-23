@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/reactjs-figma-project/static/css/main.1a5e5fdf.css",
+    "main.js": "/reactjs-figma-project/static/js/main.f557721b.js",
+    "static/js/111.397a7482.chunk.js": "/reactjs-figma-project/static/js/111.397a7482.chunk.js",
+    "static/media/map.png": "/reactjs-figma-project/static/media/map.4d1c61afac00721313fe.png",
+    "static/media/feature.png": "/reactjs-figma-project/static/media/feature.77708ef25997049ac1f2.png",
+    "static/media/avatar.png": "/reactjs-figma-project/static/media/avatar.d8343cacc335168e15d1.png",
+    "static/media/success.png": "/reactjs-figma-project/static/media/success.03008e580c2e04b98b85.png",
+    "static/media/BgHome.png": "/reactjs-figma-project/static/media/BgHome.77091a9ab92d366f399e.png",
+    "static/media/bg.png": "/reactjs-figma-project/static/media/bg.c1187916db3096c02581.png",
+    "static/media/RecoveryCode.png": "/reactjs-figma-project/static/media/RecoveryCode.b17ee195a465a9f2c09f.png",
+    "static/media/suggest.png": "/reactjs-figma-project/static/media/suggest.2ae21cd1191122e30f6a.png",
+    "static/media/product.png": "/reactjs-figma-project/static/media/product.f87a6f016a798d3b15a0.png",
+    "static/media/NewPassword.png": "/reactjs-figma-project/static/media/NewPassword.6ab2e2028663f72e2332.png",
+    "static/media/FreeDownload.png": "/reactjs-figma-project/static/media/FreeDownload.ccd568ce033fbe797475.png",
+    "static/media/Reviewer.png": "/reactjs-figma-project/static/media/Reviewer.598cd5cb00ab726f2d54.png",
+    "static/media/SignUp.png": "/reactjs-figma-project/static/media/SignUp.44aec4ec4b7d2ca5dac5.png",
+    "static/media/bg1.png": "/reactjs-figma-project/static/media/bg1.06b48e645dbf31fb714c.png",
+    "static/media/MassiveLibrary.png": "/reactjs-figma-project/static/media/MassiveLibrary.d33d4d6316edb47bf305.png",
+    "static/media/kaspersky.png": "/reactjs-figma-project/static/media/kaspersky.c5921386ddce0452749e.png",
+    "static/media/account.png": "/reactjs-figma-project/static/media/account.153a0a56fb99efd5f068.png",
+    "static/media/ForgetPassword.png": "/reactjs-figma-project/static/media/ForgetPassword.d2a528c1fcabe6a25cae.png",
+    "static/media/AllCopyrights.png": "/reactjs-figma-project/static/media/AllCopyrights.ed8dc8a085cbf1bcd711.png",
+    "static/media/ellipse.png": "/reactjs-figma-project/static/media/ellipse.3e8bb67e2a875922814d.png",
+    "static/media/bg2.png": "/reactjs-figma-project/static/media/bg2.75daa4de27c6185cad38.png",
+    "static/media/login.png": "/reactjs-figma-project/static/media/login.cd466533213bbfc0937a.png",
+    "index.html": "/reactjs-figma-project/index.html",
+    "main.1a5e5fdf.css.map": "/reactjs-figma-project/static/css/main.1a5e5fdf.css.map",
+    "main.f557721b.js.map": "/reactjs-figma-project/static/js/main.f557721b.js.map",
+    "111.397a7482.chunk.js.map": "/reactjs-figma-project/static/js/111.397a7482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5e5fdf.css",
+    "static/js/main.f557721b.js"
+  ]
+}
