@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactjs-figma-project/static/css/main.1a5e5fdf.css",
-    "main.js": "/reactjs-figma-project/static/js/main.f557721b.js",
-    "static/js/111.397a7482.chunk.js": "/reactjs-figma-project/static/js/111.397a7482.chunk.js",
+    "main.css": "/reactjs-figma-project/static/css/main.859805d0.css",
+    "main.js": "/reactjs-figma-project/static/js/main.18bfc1f5.js",
+    "static/js/111.7fc628a5.chunk.js": "/reactjs-figma-project/static/js/111.7fc628a5.chunk.js",
     "static/media/map.png": "/reactjs-figma-project/static/media/map.4d1c61afac00721313fe.png",
     "static/media/feature.png": "/reactjs-figma-project/static/media/feature.77708ef25997049ac1f2.png",
     "static/media/avatar.png": "/reactjs-figma-project/static/media/avatar.d8343cacc335168e15d1.png",
@@ -26,12 +26,12 @@
     "static/media/bg2.png": "/reactjs-figma-project/static/media/bg2.75daa4de27c6185cad38.png",
     "static/media/login.png": "/reactjs-figma-project/static/media/login.cd466533213bbfc0937a.png",
     "index.html": "/reactjs-figma-project/index.html",
-    "main.1a5e5fdf.css.map": "/reactjs-figma-project/static/css/main.1a5e5fdf.css.map",
-    "main.f557721b.js.map": "/reactjs-figma-project/static/js/main.f557721b.js.map",
-    "111.397a7482.chunk.js.map": "/reactjs-figma-project/static/js/111.397a7482.chunk.js.map"
+    "main.859805d0.css.map": "/reactjs-figma-project/static/css/main.859805d0.css.map",
+    "main.18bfc1f5.js.map": "/reactjs-figma-project/static/js/main.18bfc1f5.js.map",
+    "111.7fc628a5.chunk.js.map": "/reactjs-figma-project/static/js/111.7fc628a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a5e5fdf.css",
-    "static/js/main.f557721b.js"
+    "static/css/main.859805d0.css",
+    "static/js/main.18bfc1f5.js"
   ]
 }
